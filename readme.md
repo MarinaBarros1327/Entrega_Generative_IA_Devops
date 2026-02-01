@@ -67,13 +67,9 @@ Mudança real é inconsistente; possível abertura de SSH para 0.0.0.0/0; bloque
 
 ## Estrutura do Projeto
 - `prompts/` — v1, v2, v3 (modelos com placeholders)  
-- `examples/` — versões preenchidas para todos os 6 PRs  
 - `results/` — imagens PNG com resultados por versão e exemplo  
 
 ---
-
-
-**Nome:** Marina Ramos Barros
 
 ## Objetivo
 Demonstrar domínio de prompt engineering criando três versões (v1, v2, v3) de um prompt para análise automática de Pull Requests (PRs) de IaC, avaliando:
